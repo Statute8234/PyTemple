@@ -1,0 +1,1 @@
+Python is a widely used scripting language for automation, system administration, and utility programs. Scripts are short programs that perform specific tasks or automate routine processes, such as file manipulation, data processing, web scraping, and task scheduling.
